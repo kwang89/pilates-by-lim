@@ -1164,7 +1164,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^5.42.1, @typescript-eslint/parser@npm:^5.57.0":
+"@typescript-eslint/parser@npm:^5.42.1":
   version: 5.57.0
   resolution: "@typescript-eslint/parser@npm:5.57.0"
   dependencies:
@@ -5985,7 +5985,6 @@ __metadata:
   dependencies:
     "@nuxtjs/eslint-config-typescript": ^12.0.0
     "@types/node": ^18.15.11
-    "@typescript-eslint/parser": ^5.57.0
     eslint: ^8.37.0
     eslint-config-prettier: ^8.8.0
     eslint-plugin-prettier: ^4.2.1
